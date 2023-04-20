@@ -1,0 +1,65 @@
+body {
+  background-color: #FFF0F3; /* lightpink */
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+  padding-bottom: 0px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin: 0px;
+  padding-top: 0px;
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: left;
+}
+
+
+p {
+  font-size: 16px;
+  text-align: left;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+img {
+  display: flex;
+  width: 25%;
+}
+
+.catContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.catPic {
+  display: flex;
+  width: 100%;
+}
+
+.catDescription {
+  color: grey;
+  flex: 1;
+  text-align: left;
+  line-height: 1.3em;
+}
+
+.breed {
+  width: 100%;
+  margin: 50px;
+}
